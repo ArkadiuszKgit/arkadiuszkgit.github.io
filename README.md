@@ -1,4 +1,4 @@
-# arkadiuszkgit.github.io
+# arkadiuszkgit
 
 # Wykonane na podstawie kursu Kamila Brzezińskiego
 
